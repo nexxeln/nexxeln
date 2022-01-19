@@ -1,5 +1,12 @@
-## Hi, I'm Shoubhit aka nexxel online.
+## Hi, I'm Shoubhit, commonly known as nexxel online.
+- I'm a student
+- Pronouns: he/him or they/them
+- Fun fact: I hate writing READMEs
 
+#### Feel free to open PRs to help improve my code.
+
+### Cotact me:
+Don't
 
 [![Spotify](https://novatorem-nexxeln.vercel.app/api/spotify)](https://open.spotify.com/user/j853up1weeaj3q36fp5lvm2vr)
 <!--
