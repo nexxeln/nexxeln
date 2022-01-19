@@ -1,4 +1,5 @@
 
+[![Spotify](https://novatorem-nexxeln.vercel.app/api/spotify)](https://open.spotify.com/user/j853up1weeaj3q36fp5lvm2vr)
 <!--
 **nexxeln/nexxeln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
