@@ -5,6 +5,9 @@
 
 #### Feel free to open PRs to help improve my code.
 
+### Languages and Technologies
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+
 ### Cotact me:
 Don't
 
