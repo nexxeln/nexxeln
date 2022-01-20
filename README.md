@@ -12,7 +12,7 @@
 |--|--|--|--|
 
 **Databases**
-| <img title="MongoDB" alt="MongoDB" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" /> | <img alt="MySQL" title="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> |  
+| <img title="MongoDB" alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" /> | <img alt="MySQL" title="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> |  
 |--|--|
 
 **Frameworks and Tools**
