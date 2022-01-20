@@ -23,7 +23,7 @@
 
 
 
-### <img alt="Contact" title="Contact Me" width="23px" src="https://cdn.icon-icons.com/icons2/656/PNG/128/mail_email_message_electronic_online_web_icon-icons.com_59986.png"> Cotact me:
+### <img alt="Contact" title="Contact Me" width="23px" src="https://cdn.icon-icons.com/icons2/656/PNG/128/mail_email_message_electronic_online_web_icon-icons.com_59986.png"> Contact me:
 Don't.
 
 ### <img alt="Spotify" title="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/225px-Spotify_logo_without_text.svg.png"> Spotify:
