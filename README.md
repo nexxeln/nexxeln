@@ -1,6 +1,7 @@
 ## Hi, I'm Shoubhit, commonly known as nexxel online.
 - I'm a student
 - Pronouns: he/him or they/them
+- I'm a huge believer in the concept of Open Source and Open Access
 - Fun fact: I hate writing READMEs
 
 #### Feel free to open PRs to help improve my code.
