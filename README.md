@@ -25,11 +25,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxeln&layout=compact)
 
-### <img alt="Contact" title="Contact Me" width="23px" src="https://cdn.icon-icons.com/icons2/656/PNG/128/mail_email_message_electronic_online_web_icon-icons.com_59986.png"> Contact me:
+## Contact me:
 Don't.
-
-
-### <img alt="Spotify" title="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/225px-Spotify_logo_without_text.svg.png"> Spotify:
-
-[![Spotify](https://novatorem-nexxeln.vercel.app/api/spotify)](https://open.spotify.com/user/j853up1weeaj3q36fp5lvm2vr)
-
