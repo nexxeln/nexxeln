@@ -20,27 +20,13 @@
 | <img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" /> | <img alt="Flask" title="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> | <img alt="FastAPI" title="FastAPI" width="40px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png"> | <img alt="Git" title="Git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/180px-Git-logo-orange.svg.png"> | <img alt="GitHUb" title="GitHub" width="40px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"> | <img alt="Ubuntu" title="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"> | <img alt="VSCode" title="Visual Studio Code" width="40px" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"> |
 |--|--|--|--|--|--|--|
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
+
 ### <img alt="Contact" title="Contact Me" width="23px" src="https://cdn.icon-icons.com/icons2/656/PNG/128/mail_email_message_electronic_online_web_icon-icons.com_59986.png"> Contact me:
 Don't.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
 
 
 ### <img alt="Spotify" title="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/225px-Spotify_logo_without_text.svg.png"> Spotify:
 
 [![Spotify](https://novatorem-nexxeln.vercel.app/api/spotify)](https://open.spotify.com/user/j853up1weeaj3q36fp5lvm2vr)
 
-<!--
-**nexxeln/nexxeln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
