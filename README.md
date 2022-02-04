@@ -23,8 +23,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxeln&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxeln&layout=compact)
 
 ### <img alt="Contact" title="Contact Me" width="23px" src="https://cdn.icon-icons.com/icons2/656/PNG/128/mail_email_message_electronic_online_web_icon-icons.com_59986.png"> Contact me:
 Don't.
