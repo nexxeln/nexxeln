@@ -24,7 +24,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
 
-<p align="leftr"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="nexxel's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Saumya&theme=dark&langs_count=10&hide=sourcepawn&layout=compact" /></a></p>
-
 ## Contact me:
 Don't.
