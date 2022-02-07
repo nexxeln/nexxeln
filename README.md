@@ -2,8 +2,7 @@
 - I'm a student
 - Pronouns: he/him or they/them
 - I'm a huge believer in the concept of Open Source and Open Access
-- Fun fact: I hate writing READMEs
-- 
+
 ### <img title="Python" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /> Languages and Technologies
 
 **Languages**
