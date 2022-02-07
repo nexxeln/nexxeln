@@ -3,9 +3,7 @@
 - Pronouns: he/him or they/them
 - I'm a huge believer in the concept of Open Source and Open Access
 - Fun fact: I hate writing READMEs
-
-#### Feel free to open PRs to help improve my code.
-
+- 
 ### <img title="Python" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /> Languages and Technologies
 
 **Languages**
@@ -26,3 +24,5 @@
 
 ## Contact me:
 Don't.
+
+![Profile views](https://gpvc.arturio.dev/nexxeln)
