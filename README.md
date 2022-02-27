@@ -6,6 +6,7 @@
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxeln&theme=github_dark)
 
 ## Contact me:
