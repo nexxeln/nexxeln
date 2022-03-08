@@ -4,10 +4,11 @@
 - I'm a huge believer in the concept of Open Source and Open Access
 
 ### GitHub Stats
-
+<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxeln&theme=github_dark)
+</div>
 
 ## Contact me:
 Don't.
