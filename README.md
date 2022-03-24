@@ -3,9 +3,9 @@
 - Pronouns: he/him or they/them
 - Pythonista, Rustacean, Gopher and TypeScript lover
 
-<h3 align="center">GitHub Stats</h3>
+### GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark" alt="GitHub Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=nexxeln&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
 ## Contact me:
 Don't.
