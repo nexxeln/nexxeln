@@ -1,6 +1,7 @@
 ## Hi, I'm Shoubhit, commonly known as nexxel online.
 - I'm a student
 - Pronouns: he/him or they/them
+- React is my religion
 - Pythonista, Rustacean, Gopher and TypeScript lover
 
 ### GitHub Stats
