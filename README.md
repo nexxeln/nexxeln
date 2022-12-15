@@ -1,3 +1,3 @@
 <samp>
-  On hiatus because exams
+  On a hiatus because exams
 </samp>
