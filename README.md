@@ -1,3 +1,3 @@
 <samp>
-  Checkout my website -> <a href="https://www.nexxel.dev">nexxel.dev</a>
+  Check out my website -> <a href="https://www.nexxel.dev">nexxel.dev</a>
 </samp>
